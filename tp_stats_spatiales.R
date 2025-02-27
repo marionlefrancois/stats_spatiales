@@ -116,8 +116,6 @@ distance
   
 # Question 18
 
-
-Quelles sont les communes à moins de 20 km (à vol d’oiseau) de chaque centroïde
   
   
   
