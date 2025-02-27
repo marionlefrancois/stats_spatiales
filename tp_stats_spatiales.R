@@ -50,6 +50,7 @@ plot(dep_Bretagne)
 # Question 13
 dep_Bretagne2 <- communes_Bretagne %>%
   group_by(dep) %>%
+<<<<<<< HEAD
   summarize(st_union(geom))
 
 plot(dep_Bretagne2)
@@ -116,8 +117,6 @@ distance
   
 # Question 18
 
-  
-  
   
   
 
